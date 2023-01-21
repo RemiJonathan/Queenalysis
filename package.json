@@ -1,0 +1,29 @@
+{
+  "name": "queenalysis",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
+  },
+  "description": "Project developped in the context of HackConcordia's ConUHacks7, analyse stock trading data and statistics to create valuable information in a automated investment context",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Remi Jonathan Choquette, Khaled Matloub, Seif Bedair Mohammed Bedair",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemiJonathan/Queenalysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RemiJonathan/Queenalysis/issues"
+  },
+  "homepage": "https://github.com/RemiJonathan/Queenalysis#readme"
+}
